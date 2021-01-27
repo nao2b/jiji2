@@ -17,7 +17,7 @@ gem 'rack'
 gem 'sinatra'
 gem 'puma'
 
-gem 'mongoid'
+gem 'pg'
 
 gem 'oanda_api_v20'
 gem 'quandl'
