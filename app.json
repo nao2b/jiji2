@@ -31,5 +31,6 @@
     {
       "url": "https://github.com/heroku/heroku-buildpack-ruby"
     }
-  ]
+  ],
+  "stack": "heroku-16"
 }
